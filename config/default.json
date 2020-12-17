@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://melagogz:ike_360-@mern.cgoal.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "7fcee0e723800ff621c3",
+  "githubSecret": "",
+  "githubToken": "c6c69a1df02113ccc2d02dd595ad5d90e3493da0"
+}
